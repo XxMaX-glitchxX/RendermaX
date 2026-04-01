@@ -1,2 +1,2 @@
 # RendermaX
-Optimizer progresivo
+Optimizer progresivo (desactualizado)
